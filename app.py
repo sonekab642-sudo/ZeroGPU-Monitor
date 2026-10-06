@@ -14,7 +14,22 @@ DB_FILE = "accounts.db"
 # ⚙️ আপনার ৩২টি অ্যাকাউন্টের সম্পূর্ণ তালিকা
 # (প্রতিটি অ্যাকাউন্টের আসল API Key hf_xxxxxxxx এর জায়গায় বসিয়ে দিন)
 # =====================================================================
-account 
+ACCOUNTS_LIST = [
+    {"username": "pagle-kukur-8", "api_key": "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"},
+    {"username": "pagle-kukur-9", "api_key": "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"},
+    {"username": "pagle-kukur-10", "api_key": "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"},
+    {"username": "pagle-kukur-11", "api_key": "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"},
+    {"username": "pagle-kukur-12", "api_key": "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"},
+    {"username": "pagle-kukur-13", "api_key": "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"},
+    {"username": "pagle-kukur-14", "api_key": "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"},
+    {"username": "pagle-kukur-15", "api_key": "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"},
+    {"username": "pagle-kukur-16", "api_key": "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"},
+    {"username": "pagle-kukur-17", "api_key": "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"},
+    {"username": "pagle-kukur-18", "api_key": "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"},
+    {"username": "pagle-kukur-19", "api_key": "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"},
+    {"username": "pagle-kukur-20", "api_key": "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"},
+    {"username": "pagle-kukur-21", "api_key": "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"},]
+ 
 # =====================================================================
 # ডাটাবেজ সেটআপ
 # =====================================================================
